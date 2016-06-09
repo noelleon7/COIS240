@@ -1,0 +1,9 @@
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\bin\Debug\calculator.exe.config
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\bin\Debug\calculator.exe
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\bin\Debug\calculator.pdb
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.exe
+C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.pdb
