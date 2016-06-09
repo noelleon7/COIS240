@@ -41,6 +41,7 @@
             this.btn9 = new System.Windows.Forms.Button();
             this.btn10 = new System.Windows.Forms.Button();
             this.btnmultiply = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblDesplegar
@@ -173,11 +174,21 @@
             this.btnmultiply.UseVisualStyleBackColor = true;
             this.btnmultiply.Click += new System.EventHandler(this.btnmultiplicacion_Click);
             // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(337, 151);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(75, 23);
+            this.btnAdd.TabIndex = 16;
+            this.btnAdd.Text = "+";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            // 
             // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(434, 322);
+            this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnmultiply);
             this.Controls.Add(this.btn10);
             this.Controls.Add(this.btn9);
@@ -213,6 +224,7 @@
         private System.Windows.Forms.Button btn9;
         private System.Windows.Forms.Button btn10;
         private System.Windows.Forms.Button btnmultiply;
+        private System.Windows.Forms.Button btnAdd;
     }
 }
 
