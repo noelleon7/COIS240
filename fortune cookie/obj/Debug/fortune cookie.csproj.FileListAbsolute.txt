@@ -4,3 +4,9 @@ C:\Users\noelm\Documents\COIS240\COIS240\fortune cookie\bin\Debug\fortune cookie
 C:\Users\noelm\Documents\COIS240\COIS240\fortune cookie\bin\Debug\fortune cookie.pdb
 C:\Users\noelm\Documents\COIS240\COIS240\fortune cookie\obj\Debug\fortune cookie.exe
 C:\Users\noelm\Documents\COIS240\COIS240\fortune cookie\obj\Debug\fortune cookie.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\bin\Debug\fortune cookie.exe.config
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\obj\Debug\fortune cookie.exe
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\obj\Debug\fortune cookie.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\bin\Debug\fortune cookie.exe
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\bin\Debug\fortune cookie.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\fortune cookie\obj\Debug\fortune cookie.csprojResolveAssemblyReference.cache

@@ -7,3 +7,12 @@ C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.Propert
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.exe
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\bin\Debug\calculator.exe.config
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.exe
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\bin\Debug\calculator.exe
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\bin\Debug\calculator.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache

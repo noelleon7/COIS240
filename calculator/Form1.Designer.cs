@@ -165,7 +165,7 @@
             // 
             // btnmultiply
             // 
-            this.btnmultiply.Location = new System.Drawing.Point(337, 190);
+            this.btnmultiply.Location = new System.Drawing.Point(45, 228);
             this.btnmultiply.Name = "btnmultiply";
             this.btnmultiply.Size = new System.Drawing.Size(75, 23);
             this.btnmultiply.TabIndex = 15;

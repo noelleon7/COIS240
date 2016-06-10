@@ -4,3 +4,6 @@ C:\Users\noelm\Documents\COIS240\COIS240\computer.laptop\bin\Debug\computer.lapt
 C:\Users\noelm\Documents\COIS240\COIS240\computer.laptop\obj\Debug\computers.csprojResolveAssemblyReference.cache
 C:\Users\noelm\Documents\COIS240\COIS240\computer.laptop\obj\Debug\computer.laptop.exe
 C:\Users\noelm\Documents\COIS240\COIS240\computer.laptop\obj\Debug\computer.laptop.pdb
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\computer.laptop\bin\Debug\computer.laptop.exe.config
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\computer.laptop\obj\Debug\computer.laptop.exe
+C:\Users\moren\Documents\COIS 240\ElClonDeNoel\computer.laptop\obj\Debug\computer.laptop.pdb
