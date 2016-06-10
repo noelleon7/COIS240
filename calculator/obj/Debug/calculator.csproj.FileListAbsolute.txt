@@ -7,3 +7,6 @@ C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.Propert
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.exe
 C:\Users\noelm\Documents\COIS240\COIS240\calculator\obj\Debug\calculator.pdb
+C:\Users\sepulvedaj2\Desktop\COIS240\ClonDeNoel\calculator\bin\Debug\calculator.exe.config
+C:\Users\sepulvedaj2\Desktop\COIS240\ClonDeNoel\calculator\obj\Debug\calculator.exe
+C:\Users\sepulvedaj2\Desktop\COIS240\ClonDeNoel\calculator\obj\Debug\calculator.pdb
